@@ -48,6 +48,7 @@ goal: Become a better  software engineer
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
@@ -117,7 +118,7 @@ goal: Become a better  software engineer
 
 <div align="center">
 
-📧 **Email:** [your.email@gmail.com](mailto:hlongwanemz05@gmail.com)
+📧 **Email:** [hlongwanemz05@gmail.com](mailto:hlongwanemz05@gmail.com)
 💼 **LinkedIn:** [https://linkedin.com/in/Hlongwane Matange Zach ](https://linkedin.com/in/hlongwane-matange-7a0ab2270)
 🌐 **Portfolio:** coming soon
 
